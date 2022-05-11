@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-flatcc
+target: flatcc
+
+cmds:
+  - cmd: /flatcc/bin/flatcc @@
