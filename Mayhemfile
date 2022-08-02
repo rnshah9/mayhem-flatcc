@@ -2,4 +2,4 @@ project: flatcc
 target: flatcc
 
 cmds:
-  - cmd: /flatcc/bin/flatcc @@
+  - cmd: /flatcc @@
